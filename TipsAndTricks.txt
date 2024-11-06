@@ -1,0 +1,12 @@
+Create new cs project file
+		dotnet new console -o ./CsharpProjects/TestProject
+
+To build project after saving, builds the project and its dependencies into a set of binaries.
+		dotnet build
+
+To run
+		dotnet run
+
+To call methods of a class in the .NET Class Library, you use the format ClassName.MethodName()
+
+#An Object is an instance of a class

@@ -1,0 +1,14 @@
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfo.cs
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\bin\Debug\net8.0\MathClass.exe
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\bin\Debug\net8.0\MathClass.deps.json
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\bin\Debug\net8.0\MathClass.runtimeconfig.json
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\bin\Debug\net8.0\MathClass.dll
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\bin\Debug\net8.0\MathClass.pdb
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.dll
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\refint\MathClass.dll
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.pdb
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\MathClass.genruntimeconfig.cache
+C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\MathClass\obj\Debug\net8.0\ref\MathClass.dll
