@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject
-build_property.ProjectDir = C:\Users\imafi\OneDrive\Documents\EDUCATION\C#CodeCamp\CsharpProjects\TestProject\
+build_property.ProjectDir = C:\Users\imafi\OneDrive\Documents\CAREER\Repos\CSharpWithMicrosoft\CsharpProjects\TestProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

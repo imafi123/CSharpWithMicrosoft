@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imafi\\OneDrive\\Documents\\EDUCATION\\C#CodeCamp\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\imafi\\OneDrive\\Documents\\CAREER\\Repos\\CSharpWithMicrosoft\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\imafi\\OneDrive\\Documents\\EDUCATION\\C#CodeCamp\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\imafi\\OneDrive\\Documents\\CAREER\\Repos\\CSharpWithMicrosoft\\CsharpProjects\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\imafi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imafi\\OneDrive\\Documents\\EDUCATION\\C#CodeCamp\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\imafi\\OneDrive\\Documents\\CAREER\\Repos\\CSharpWithMicrosoft\\CsharpProjects\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
