@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Create new cs project file
 		dotnet new console -o ./CsharpProjects/TestProject
 
@@ -6,7 +7,14 @@ To build project after saving, builds the project and its dependencies into a se
 
 To run
 		dotnet run
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 To call methods of a class in the .NET Class Library, you use the format ClassName.MethodName()
-
-#An Object is an instance of a class
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+An Object is an instance of a class
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Looping logic
+The for statement: executes its body while a specified Boolean expression (the 'condition') evaluates to true.
+The foreach statement: enumerates the elements of a collection and executes its body for each element of the collection.
+The do-while statement: conditionally executes its body one or more times.
+The while statement: conditionally executes its body zero or more times.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
